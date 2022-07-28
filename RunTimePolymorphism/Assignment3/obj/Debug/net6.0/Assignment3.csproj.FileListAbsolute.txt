@@ -1,0 +1,15 @@
+D:\C#\RunTimePolymorphism\Assignment3\bin\Debug\net6.0\Assignment3.exe
+D:\C#\RunTimePolymorphism\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+D:\C#\RunTimePolymorphism\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+D:\C#\RunTimePolymorphism\Assignment3\bin\Debug\net6.0\Assignment3.dll
+D:\C#\RunTimePolymorphism\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\Assignment3.dll
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\refint\Assignment3.dll
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
+D:\C#\RunTimePolymorphism\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll
